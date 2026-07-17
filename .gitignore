@@ -1,4 +1,5 @@
 venv_hadoop/
+.venv
 .idea/
 __pycache__/
 .ipynb_checkpoints/
