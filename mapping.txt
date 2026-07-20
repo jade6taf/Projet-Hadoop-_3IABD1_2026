@@ -1,0 +1,54 @@
+Hours_Studied -> Heures_Etudiees
+Attendance -> Presence
+Parental_Involvement -> Implication_Parentale
+	Low : Bas
+	Medium : Moyen
+	High : Haut
+Access_to_Resources -> Acces_aux_Ressources
+	Low : Bas
+	Medium : Moyen
+	High : Haut
+Extracurricular_Activities -> Activites_Extrascolaires
+	Yes : Oui
+	No : Non
+Sleep_Hours -> Heures_Sommeil
+Previous_Scores -> Scores_Precedents
+Motivation_Level -> Niveau_Motivation
+	Low : Bas
+	Medium : Moyen
+	High : Haut
+Internet_Access -> Acces_Internet
+	Yes : Oui
+	No : Non
+Tutoring_Sessions -> Sessions_Tutorat
+Family_Income -> Revenu_Famille
+	Low : Bas
+	Medium : Moyen
+	High : Haut
+Teacher_Quality -> Qualite_Enseignant
+	Low : Bas
+	Medium : Moyen
+	High : Haut
+School_Type -> Type_Ecole
+	Public : Publique
+	Private : Privee
+Peer_Influence -> Influence_Entourage
+	Negative : Negative
+	Neutral : Neutre
+	Positive : Positif
+Physical_Activity -> Activite_Physique
+Learning_Disabilities -> Troubles_Apprentissage
+	Yes : Oui
+	No : Non
+Parental_Education_Level -> Niveau_Education_Parents
+	High School : Lycee
+	College : Licence
+	Postgraduate : Master
+Distance_from_Home -> Distance_Maison
+	Near : Proche
+	Moderate : Moderee
+	Far : Loin
+Gender -> Genre
+	Male : Homme
+	Female : Femme
+Exam_Score -> Score_Examen
